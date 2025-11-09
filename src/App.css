@@ -1,0 +1,19 @@
+
+.custom-jodit{
+  margin: 20px;
+  max-width: 800px;
+  padding: 20px;
+  margin: auto;
+}
+.custom-jodit .jodit-status-bar-link {
+  display: none;
+}
+.custom-jodit [data-ref="ai-assistant"] {
+  display: none !important;
+}
+.custom-jodit [data-ref="ai-commands"] {
+  display: none !important;
+}
+.custom-jodit [data-ref="dots"] {
+  display: none !important;
+}
